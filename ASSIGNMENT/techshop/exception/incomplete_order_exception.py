@@ -1,0 +1,3 @@
+
+class IncompleteOrderException(Exception):
+    pass
